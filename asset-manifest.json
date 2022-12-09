@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ims-228-deliverable/static/css/main.9e001403.css",
+    "main.js": "/ims-228-deliverable/static/js/main.b28b93d7.js",
+    "static/js/787.9350a413.chunk.js": "/ims-228-deliverable/static/js/787.9350a413.chunk.js",
+    "static/media/myMiami.png": "/ims-228-deliverable/static/media/myMiami.84cfcaa9c7ef9e296085.png",
+    "static/media/my-prototype.png": "/ims-228-deliverable/static/media/my-prototype.5904abd433901abbec39.png",
+    "static/media/map-one.png": "/ims-228-deliverable/static/media/map-one.49609f4b49d131431cb2.png",
+    "static/media/map-two.png": "/ims-228-deliverable/static/media/map-two.737d8d76b69f3458c0c2.png",
+    "index.html": "/ims-228-deliverable/index.html",
+    "main.9e001403.css.map": "/ims-228-deliverable/static/css/main.9e001403.css.map",
+    "main.b28b93d7.js.map": "/ims-228-deliverable/static/js/main.b28b93d7.js.map",
+    "787.9350a413.chunk.js.map": "/ims-228-deliverable/static/js/787.9350a413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e001403.css",
+    "static/js/main.b28b93d7.js"
+  ]
+}
